@@ -16,13 +16,6 @@
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=blue&center=true&vCenter=true&multiline=false&lines=CRAZY+PRINCE+WHATSAPP+BOT" alt="">
 </p>
-
- **Warning**
->
-> **Je ne peux pas garantir ou être tenu responsable si vous êtes bloqué ou banni en utilisant ce logiciel. WhatsApp n'autorise pas les robots utilisant des méthodes non officielles sur sa plateforme, cela ne doit donc pas être considéré comme totalement sûr.**
->
-> Ce code n'est en aucun cas affilié, autorisé, maintenu, sponsorisé ou approuvé par WA (WhatsApp) ou l'une de ses sociétés affiliées ou filiales.
->Il s'agit d'un logiciel indépendant et non officiel. Utilisez-le à vos propres risques.
     
 [![GitHub stars](https://img.shields.io/github/stars/serizawa-md/CrazyPrince?color=brightgreen)](https://github.com/serizawa-md/CrazyPrince/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/serizawa-md/CrazyPrince?color=brightgreen)](https://github.com/serizawa-md/CrazyPrince/issues)
@@ -30,6 +23,16 @@
 [![GitHub license](https://img.shields.io/github/license/serizawa-md/CrazyPrince?color=brightgreen)](https://github.com/serizawa-md/CrazyPrince/blob/main/LICENSE)
 [![Visits Badge](https://badges.pufler.dev/visits/serizawa-md/CrazyPrince)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/serizawa-md/CrazyPrince)](https://badges.pufler.dev)
+
+ - Warning! 🚧
+ + Warning! 🚧
+>
+> **Je ne peux pas garantir ou être tenu responsable si vous êtes bloqué ou banni en utilisant ce logiciel. WhatsApp n'autorise pas les robots utilisant des méthodes non officielles sur sa plateforme, cela ne doit donc pas être considéré comme totalement sûr.**
+>
+> Ce code n'est en aucun cas affilié, autorisé, maintenu, sponsorisé ou approuvé par WA (WhatsApp) ou l'une de ses sociétés affiliées ou l'une de ses sociétés affiliées ou filiales.
+>Il s'agit d'un logiciel indépendant et non officiel. Utilisez-le à vos propres risques.ales.
+>Il s'agit d'un logiciel indépendant et non officiel. Utilisez-le à vos propres risques.
+
 <details>
 <summary>Déployer sur Heroku</summary>
 </details>

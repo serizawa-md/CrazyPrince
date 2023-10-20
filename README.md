@@ -22,6 +22,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/serizawa-md/CrazyPrince?color=brightgreen)](https://github.com/serizawa-md/CrazyPrince/network)
 [![GitHub license](https://img.shields.io/github/license/serizawa-md/CrazyPrince?color=brightgreen)](https://github.com/serizawa-md/CrazyPrince/blob/main/LICENSE)
 [![Visits Badge](https://badges.pufler.dev/visits/serizawa-md/CrazyPrince)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/serizawa-md/CrazyPrince)](https://badges.pufler.dev)
 <details>
 <summary>Déployer sur Heroku</summary>
 </details>

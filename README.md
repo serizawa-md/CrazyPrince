@@ -44,6 +44,8 @@
 ---
 <details>
 <summary>Licence</summary>
+  CrazyPrince est sous licence  [GPL-3](LICENSE).
+  
 </details>
 
 #### ```VUES DU PROFIL 🗨️```

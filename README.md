@@ -40,7 +40,6 @@
 <details>
 <summary>Licence</summary>
 </details>
----
 
 #### ```VUES DU PROFIL 🗨️```
 ![Visitor Count](https://profile-counter.glitch.me/serizawa-md/count.svg)

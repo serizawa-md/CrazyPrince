@@ -1,4 +1,4 @@
-# [CRAZY PRINCE MD](https://github.com/serizawa-md/CrazyPrince/)
+## [CRAZY PRINCE MD](https://github.com/serizawa-md/CrazyPrince/)
 <p align="center"> 
 <u>👑 𝙱𝙾𝚃 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙲𝚁𝙴𝙴 𝙿𝙰𝚁 𝙲𝚁𝙰𝚉𝚈 👑</u>
 </p>
@@ -16,3 +16,6 @@
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=blue&center=true&vCenter=true&multiline=false&lines=CRAZY+PRINCE+WHATSAPP+BOT" alt="">
 </p>
+
+#### ```VUES DU PROFIL 🗨️```
+![Visitor Count](https://profile-counter.glitch.me/serizawa-md/count.svg)

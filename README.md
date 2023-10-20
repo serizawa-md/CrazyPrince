@@ -24,8 +24,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/serizawa-md/CrazyPrince)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/serizawa-md/CrazyPrince)](https://badges.pufler.dev)
 
- - Warning! 🚧
- + Warning! 🚧
+<span style="color: orange;">**Warning! 🚧**</span>
 >
 > **Je ne peux pas garantir ou être tenu responsable si vous êtes bloqué ou banni en utilisant ce logiciel. WhatsApp n'autorise pas les robots utilisant des méthodes non officielles sur sa plateforme, cela ne doit donc pas être considéré comme totalement sûr.**
 >

@@ -16,7 +16,12 @@
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=blue&center=true&vCenter=true&multiline=false&lines=CRAZY+PRINCE+WHATSAPP+BOT" alt="">
 </p>
-
+    
+[![GitHub stars](https://img.shields.io/github/stars/serizawa-md/CrazyPrince?color=brightgreen)](https://github.com/serizawa-md/CrazyPrince/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/serizawa-md/CrazyPrince?color=brightgreen)](https://github.com/serizawa-md/CrazyPrince/issues)
+[![GitHub forks](https://img.shields.io/github/forks/serizawa-md/CrazyPrince?color=brightgreen)](https://github.com/serizawa-md/CrazyPrince/network)
+[![GitHub license](https://img.shields.io/github/license/serizawa-md/CrazyPrince?color=brightgreen)](https://github.com/serizawa-md/CrazyPrince/blob/main/LICENSE)
+[![Visits Badge](https://badges.pufler.dev/visits/serizawa-md/CrazyPrince)](https://badges.pufler.dev)
 <details>
 <summary>Déployer sur Heroku</summary>
 </details>

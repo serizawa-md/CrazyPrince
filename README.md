@@ -24,12 +24,10 @@
 [![Visits Badge](https://badges.pufler.dev/visits/serizawa-md/CrazyPrince)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/serizawa-md/CrazyPrince)](https://badges.pufler.dev)
 
-<span style="color: orange;">**Warning! 🚧**</span>
+<span style="color=orange;">**Warning! 🚧**</span>
 >
 > **Je ne peux pas garantir ou être tenu responsable si vous êtes bloqué ou banni en utilisant ce logiciel. WhatsApp n'autorise pas les robots utilisant des méthodes non officielles sur sa plateforme, cela ne doit donc pas être considéré comme totalement sûr.**
 >
-> Ce code n'est en aucun cas affilié, autorisé, maintenu, sponsorisé ou approuvé par WA (WhatsApp) ou l'une de ses sociétés affiliées ou l'une de ses sociétés affiliées ou filiales.
->Il s'agit d'un logiciel indépendant et non officiel. Utilisez-le à vos propres risques.ales.
 >Il s'agit d'un logiciel indépendant et non officiel. Utilisez-le à vos propres risques.
 
 <details>

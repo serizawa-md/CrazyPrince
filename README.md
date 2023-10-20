@@ -44,19 +44,15 @@
 ---
 <details>
 <summary>Licence</summary>
-<p dir="auto">CrazyPrince est sous licence  [GPL-3](https://github.com/serizawa-md/CrazyPrince/blob/main/LICENSE).</p>
+<p dir="auto">CrazyPrince est sous licence  GPL-3.</p>
 
 <h6 tabindex="-1" dir="auto"><a id="user-content-endpoint" class="anchor" aria-hidden="true" href="#extrait"></a>Extrait</h6>
-<p dir="auto"><code>
-  GNU GENERAL PUBLIC LICENSE
+<p dir="auto"><code>GNU GENERAL PUBLIC LICENSE
                            Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
-
-                            Preamble
-
   The GNU General Public License is a free, copyleft license for
 software and other kinds of works...
 </code></p>

@@ -16,6 +16,35 @@
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=blue&center=true&vCenter=true&multiline=false&lines=CRAZY+PRINCE+WHATSAPP+BOT" alt="">
 </p>
+---
+<details>
+<summary>Déployer sur Heroku</summary>
+</details>
+---
+
+---
+<details>
+<summary>Déployer sur Replit</summary>
+</details>
+---
+
+---
+<details>
+<summary>Railway et Khoyeb</summary>
+</details>
+---
+
+---
+<details>
+<summary>Installation Termux</summary>
+</details>
+---
+    
+---
+<details>
+<summary>Licence</summary>
+</details>
+---
 
 #### ```VUES DU PROFIL 🗨️```
 ![Visitor Count](https://profile-counter.glitch.me/serizawa-md/count.svg)

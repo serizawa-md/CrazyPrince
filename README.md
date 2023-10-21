@@ -1,4 +1,5 @@
 <h1 align="center"> CRAZY PRINCE MD </h1>
+![banner](crazyprince.png)
 <p align="center"> 
 <u>👑 𝙱𝙾𝚃 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙲𝚁𝙴𝙴 𝙿𝙰𝚁 𝙲𝚁𝙰𝚉𝚈 👑</u>
 </p>

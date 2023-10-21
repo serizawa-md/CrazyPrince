@@ -21,16 +21,15 @@
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=blue&center=true&vCenter=true&multiline=false&lines=CRAZY+PRINCE+WHATSAPP+BOT" alt="">
 </p>
-<p align="center">    
+    
 [![GitHub stars](https://img.shields.io/github/stars/serizawa-md/CrazyPrince?color=brightgreen)](https://github.com/serizawa-md/CrazyPrince/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/serizawa-md/CrazyPrince?color=brightgreen)](https://github.com/serizawa-md/CrazyPrince/issues)
 [![GitHub forks](https://img.shields.io/github/forks/serizawa-md/CrazyPrince?color=brightgreen)](https://github.com/serizawa-md/CrazyPrince/network)
 [![GitHub license](https://img.shields.io/github/license/serizawa-md/CrazyPrince?color=brightgreen)](https://github.com/serizawa-md/CrazyPrince/blob/main/LICENSE)
 [![Visits Badge](https://badges.pufler.dev/visits/serizawa-md/CrazyPrince)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/serizawa-md/CrazyPrince)](https://badges.pufler.dev)
-</p>
     
-<span style="color=orange;">**⚠️ Warning! **</span>
+<span style="color=orange;">**⚠️ Warning**</span>
 >
 > **Je ne peux pas garantir ou être tenu responsable si vous êtes bloqué ou banni en utilisant ce logiciel. WhatsApp n'autorise pas les robots utilisant des méthodes non officielles sur sa plateforme, cela ne doit donc pas être considéré comme totalement sûr.**
 >

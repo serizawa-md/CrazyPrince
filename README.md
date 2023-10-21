@@ -37,8 +37,9 @@
 
 <details>
 <summary>Déployer sur Heroku</summary>
+- si vous ne disposez pas de compte heroku cliquez [ici](https://id.heroku.com/login)
 </details>
-
+- cliquez [ici](https://dashboard.heroku.com/new?template=https://github.com/serizawa-md/CrazyPrince)
 ---
 <details>
 <summary>Déployer sur Replit</summary>
@@ -73,6 +74,11 @@ software and other kinds of works...
 
 #### ```VUES DU PROFIL 🗨️```
 ![Visitor Count](https://profile-counter.glitch.me/serizawa-md/count.svg)
+
+#### Développeurs :
+- [**CRAZY_237 👑**](https://github.com/CrazyPrince)
+- [**Keen~v**](https://github.com/Kevinofc)
+- [**Vatante**](https://github.com/Vatante24)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/crazyprince"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="crazyprince" /></a></p><br><br>

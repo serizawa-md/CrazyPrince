@@ -35,24 +35,42 @@
 >
 >Il s'agit d'un logiciel indépendant et non officiel. Utilisez-le à vos propres risques.
 
-<details>
-<summary>Déployer sur Heroku</summary>
-- si vous ne disposez pas de compte heroku cliquez [ici](https://id.heroku.com/login)
-</details>
-- cliquez [ici](https://dashboard.heroku.com/new?template=https://github.com/serizawa-md/CrazyPrince)
+## Déployer sur Heroku
+- si vous ne disposez pas de compte heroku cliquez [**ici**](https://id.heroku.com/login)
+- cliquez [**ici**](https://dashboard.heroku.com/new?template=https://github.com/serizawa-md/CrazyPrince) pour déployer le bot **heroku**
+
 ---
 <details>
 <summary>Déployer sur Replit</summary>
+  R.A.S pour l'instant comrade mais c'est possible 😙
 </details>
 
 ---
 <details>
 <summary>Railway et Khoyeb</summary>
+  R.A.S pour l'instant comrade 😙
 </details>
 
 ---
 <details>
 <summary>Installation Termux</summary>
+  
+ ```   
+apt update
+apt upgrade
+pkg update && pkg upgrade
+pkg install bash
+pkg install libwebp
+pkg install git -y
+pkg install nodejs -y 
+pkg install ffmpeg -y 
+pkg install wget
+pkg install imagemagick -y
+git clone https://github.com/serizawa-md/CrazyPrince
+cd CrazyPrince
+npm install
+npm start
+```
 </details>
     
 ---

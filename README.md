@@ -1,4 +1,4 @@
-<p align="center"></h1> CRAZY PRINCE MD </h1><br> <p/>
+<p align="center"></h1> CRAZY_PRINCE-MD </h1><br> <p/>
 
 
 
